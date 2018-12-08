@@ -1,0 +1,70 @@
+[
+  {
+    "components": [
+      {
+        "symbol": "C",
+        "licznosc": "17"
+      },
+      {
+        "symbol": "H",
+        "licznosc": "19"
+      },
+      {
+        "symbol": "N",
+        "licznosc": "1"
+      },
+      {
+        "symbol": "O",
+        "licznosc": "3"
+      }
+    ]
+  },
+  {
+    "components": [
+      {
+        "symbol": "N",
+        "licznosc": "1"
+      },
+      {
+        "symbol": "H",
+        "licznosc": "4"
+      },
+      {
+        "symbol": "N",
+        "licznosc": "1"
+      },
+      {
+        "symbol": "O",
+        "licznosc": "3"
+      }
+    ]
+  },
+  {
+    "components": [
+      {
+        "symbol": "H",
+        "licznosc": "2"
+      },
+      {
+        "symbol": "S",
+        "licznosc": "1"
+      },
+      {
+        "symbol": "O",
+        "licznosc": "4"
+      }
+    ]
+  },
+  {
+    "components": [
+      {
+        "symbol": "Na",
+        "licznosc": "1"
+      },
+      {
+        "symbol": "Cl",
+        "licznosc": "1"
+      }
+    ]
+  }
+]
